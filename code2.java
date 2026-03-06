@@ -6,7 +6,7 @@ public class Main {
         do{
             System.out.print(i);
             i++;
-        }while(i<=5);
+        }while(i<=6);
          System.out.println();
         System.out.println("Program Exited!");
     }
